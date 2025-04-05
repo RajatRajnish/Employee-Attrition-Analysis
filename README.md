@@ -61,7 +61,22 @@ Count Plot: Confirmed a balanced gender distribution (50.42% Female, 49.58% Male
 
 Insight: Gender does not appear to be a significant factor in attrition.
 
+# Key insights
+Average salary per month is almost same for every role
 
+Manager Job Role has the least satisfied employees.7279
+
+Data has almost 20% of attrition rate
+
+Finance Department has the most attrition employees i.e 415
+
+Highest Attrition is in Group Range 20-24 i.e 272 employees.
+
+Used Random Forest Model to find relation b/w attrition and other aspects with 82.30% accuracy
+
+Top 5 resons for employee attrition are Monthly_Income','Hourly_Rate','Training_Hours_Last_Year','Distance_From_Home', 'Age'
+ 
+ 
 # Tools & Technologies Used
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 
